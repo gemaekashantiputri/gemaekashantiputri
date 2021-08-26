@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, you found me👋
 
+I'm Gema Eka Shanti Putri currenty a third-year student at Muhammadiyah University of Purwokerto. My specialist is a front-end developer. Interested in ui/ux design and app development
 <!--
 **gemaekashantiputri/gemaekashantiputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
